@@ -32,9 +32,9 @@ jQuery(function($){
 		thumb_links				:	1,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-										{image : 'images/slider/01.jpg', title : 'Borto9ala - Themes Arab'},
-										{image : 'images/slider/02.jpg', title : 'Borto9ala - Themes Arab'},
-										{image : 'images/slider/03.jpg', title : 'Borto9ala - Themes Arab'}
+										{image : 'http://e.top4top.net/p_407buwhz1.jpeg', title : 'Borto9ala - Themes Arab'},
+										{image : 'http://f.top4top.net/p_407yqs0t2.jpeg', title : 'Borto9ala - Themes Arab'},
+										{image : 'http://a.top4top.net/p_407l9klf3.jpeg', title : 'Borto9ala - Themes Arab'}
 									],
 										
 		// Theme Options			   
